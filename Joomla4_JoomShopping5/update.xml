@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update>
+        <name>JoomShopping - GercPay Payment Gateway</name>
+        <description>GercPay Payment Gateway for JoomShopping</description>
+        <type>plugin</type>
+        <element>gercpay</element>
+        <folder>joomshopping</folder>
+        <client>0</client>
+        <version>2.0.3</version>
+        <infourl title="GercPay">https://gercpay.com.ua</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/gercpay/joomla-joomshopping/raw/master/Joomla4_JoomShopping5/package/plg_joomshopping_gercpay_2.0.3.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>GercPay</maintainer>
+        <maintainerurl>https://gercpay.com.ua</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.[0123456789]"/>
+    </update>
+</updates>
