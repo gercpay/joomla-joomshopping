@@ -54,7 +54,7 @@ class pm_gercpay extends PaymentRoot
     const GERCPAY_STATUS_PAID     = 1;
     const GERCPAY_STATUS_REFUNDED = 7;
 
-    const URL = 'https://api.gercpay.com.ua/';
+    const URL = 'https://api.gercpay.com.ua/api/';
 
     /**
      * Load translations files
